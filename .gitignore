@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.env.*
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python notebooks (if you ever use one)
+*.ipynb_checkpoints
+
+# Logs and cache
+*.log
+*.cache
+*.tmp
+
+# Static asset build output (optional, if you later compile CSS/JS)
+static/build/
+dist/
+
+# PyInstaller
+*.spec
+build/
+dist/
